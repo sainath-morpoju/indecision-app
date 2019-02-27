@@ -17,8 +17,8 @@ console.log(squareArrow2(9));
 
 const fullName = "Sainath Morpoju";
 
-// const getFirstName = (x) => {
-//     return x.split(" ")[0];
+// const getFirstName = (fullName) => {
+//     return fullName.split(" ")[0];
 // }
 
 const getFirstName = (x) => x.split(" ")[0];
